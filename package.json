@@ -1,6 +1,6 @@
 {
   "name": "connect-aliyunocs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Aliyun OCS session store for Connect",
   "main": "index.js",
   "dependencies": {

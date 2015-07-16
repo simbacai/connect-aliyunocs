@@ -4,7 +4,7 @@
   "description": "Aliyun OCS session store for Connect",
   "main": "index.js",
   "dependencies": {
-    "aliyun-sdk-js": "^1.5.2",
+    "aliyun-sdk": "^1.5.2",
     "debug": "^2.2.0"
   },
   "devDependencies": {},

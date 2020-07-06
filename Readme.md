@@ -14,6 +14,8 @@ connect-aliyunocs is a Aliyun OCS(http://ocs.aliyun.com) session store backed by
   - `ocsSecret` Aliyun OCS server passwd
   - `prefix` Key prefix defaulting to "sess:"
   - `ttl` Aliyun OCS session TTL in seconds
+  - `ttl` Aliyun OCS session TTL in seconds
+
 
 ## Usage
 
